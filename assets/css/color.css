@@ -1,0 +1,38 @@
+
+
+
+.text-primary, .custom--nav-tabs .nav-item .nav-link, .custom--accordion-two .accordion-button:not(.collapsed), .custom--field i, .overview-card__icon, .inline-menu li a:hover, .contact-info p a:hover, .info-card__iconm, .package-card__features li::before, .ratings i, .scroll-to-top .scroll-icon, .page-breadcrumb li:first-child::before, .contact-info i, .dashboard-card .number, .dashboard-card .icon, .header .main-menu li .sub-menu li a:hover, .header .main-menu li a:hover, .header .main-menu li a:focus, .header .main-menu li.menu_has_children > a::before{
+    color: #336699 !important;
+}
+
+.btn-primary, .hover,.sidebar,.navbar-wrapper, .scroll-to-top, .preloader .preloader-container .animated-preloader, .footerd, .header-navbar, .btn-primary, .btn, .faqs, .header{
+    background-color: #336699;
+}
+
+.package-card, .custom--nav-tabs .nav-item .nav-link, .custom--nav-tabs .nav-item .nav-link.active, .custom--accordion .accordion-item, .testimonial-item, .contact-info-card:hover, .form--control, .modal .modal-content, .custom--card, .testimonial-item, .feature-card:hover, .form--control:focus{
+    border-color: #336699 !important; 
+}
+
+.package-card__title, .how-work-card__step::before, .custom--nav-tabs .nav-item .nav-link.active, .custom--table thead, .inline-social-links li a:hover, .button-nav-tabs .nav-item .nav-link.active, .custom--accordion .accordion-button:not(.collapsed), .preloader .preloader-container .animated-preloader, .balance-card, .bg--base{
+    background-color: #336699 !important;
+}
+
+.input-group-text{
+    border: none;
+}
+
+.subscribe-wrapper{
+    box-shadow: 0 0 10px #33669980 !important;
+} 
+
+.feature-card{
+    box-shadow: inset 0 0 15px #336699d9 !important;
+}
+
+.btn--base:hover{
+    background-color: #336699 !important; 
+}
+.cookie__wrapper {
+    border-top: 2px solid #336699;
+    box-shadow: 0 0 30px 2px #3366994d;
+}
